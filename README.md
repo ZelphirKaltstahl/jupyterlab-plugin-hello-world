@@ -1,6 +1,9 @@
 # jupyterlab-plugin-hello-world
 Hello World Plugin for JupyterLab
 
+# Prerequisites
+* Up to date Anaconda
+
 # Usage
 1. Clone this repository: `git clone git@github.com:ZelphirKaltstahl/jupyterlab-plugin-hello-world.git`
 2. Change directory: `pushd jupyterlab-plugin-hello-world`
