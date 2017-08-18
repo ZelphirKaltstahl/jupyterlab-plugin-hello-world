@@ -24,7 +24,7 @@
         "@jupyterlab/application": "^0.9.0"
     },
     "devDependencies": {
-        "typescript": "^2.4.2",
+        "typescript": "^2.4.2"
     },
     "jupyterlab": {
         "extension": true
